@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterverify",
+        "uuid": 2306967,
+        "checksum": "w8dzyt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
